@@ -164,3 +164,15 @@ CGPA **8.63** &nbsp;|&nbsp; Bridging **Software Development**, **Data Analytics*
 Last Updated: August 2026
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sathihacker2006/sathihacker2006/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sathihacker2006/sathihacker2006/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+<!---LeetCode Topics End-->
