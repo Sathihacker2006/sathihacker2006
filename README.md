@@ -172,6 +172,7 @@ Last Updated: August 2026
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sathihacker2006/sathihacker2006/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sathihacker2006/sathihacker2006/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sathihacker2006/sathihacker2006/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -192,4 +193,9 @@ Last Updated: August 2026
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sathihacker2006/sathihacker2006/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sathihacker2006/sathihacker2006/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Two Pointers
+|  |
+| ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sathihacker2006/sathihacker2006/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
