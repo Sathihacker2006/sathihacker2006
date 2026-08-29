@@ -198,4 +198,16 @@ Last Updated: August 2026
 |  |
 | ------- |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sathihacker2006/sathihacker2006/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Array
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sathihacker2006/sathihacker2006/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sathihacker2006/sathihacker2006/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Sorting
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sathihacker2006/sathihacker2006/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
